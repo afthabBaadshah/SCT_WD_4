@@ -67,14 +67,14 @@ p {
 }
 
 #todo-input:focus {
-  box-shadow: 0 0 20px rgba(56, 189, 248, 0.7);
+  box-shadow: 0 0 10px rgba(56, 189, 248, 0.7);
   transform: scale(1.05);
   background: rgba(255, 255, 255, 0.2);
 }
 
 /* Add Button */
 #add-btn {
-  margin-top: 15px;
+  margin-top: 25px;
   margin-left: 15px;
   padding: 12px 25px;
   background: linear-gradient(135deg, #2563eb, #0891b2);
@@ -258,4 +258,5 @@ p {
     padding: 12px 15px;
   }
 }
+
 
